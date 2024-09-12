@@ -1,7 +1,7 @@
 # Padrões de commits 📜
 
 O commit semântico possui os elementos estruturais abaixo, exemplo de nova feature: 
-`git commit -m 'feature/LOCH-01/adicionando funcionalidade X`:
+`git commit -m 'feature/LOC-01/adicionando funcionalidade X`:
 
 - `feature`- Commits do tipo feat indicam que seu trecho de código está incluindo um **novo recurso** (se relaciona com o MINOR do versionamento semântico).
 
@@ -15,7 +15,7 @@ O commit semântico possui os elementos estruturais abaixo, exemplo de nova feat
 
 # Padrões de branch 📜
 
-O padrão da criação da branch é a `ação/loch-Número da task`, exemplo de nova branch: 
+O padrão da criação da branch é a `ação/loc-Número da task`, exemplo de nova branch: 
 
 - task 01 - Cadastro e visualização do usuário
-- branch - feature/LOCH-01/
+- branch - feature/LOC-01/
